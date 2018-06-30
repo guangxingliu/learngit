@@ -5,4 +5,4 @@ Git has a index called stage.
 Git tracks changes of files.
 Creating a new branch is quick and simple.
 First person.
-another persion push.
+another persion.
